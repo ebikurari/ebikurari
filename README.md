@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebikurari (Known as Kirima)
+- 👋 Hi, I’m [Kirima](github.com/ebikurari)
 - ✨ I’m interested in Backend Development
 - 💻 I’m currently learning Javascript, Python, and Zig
 - 📫 You can reach me by contacting my email for business inquiries.
